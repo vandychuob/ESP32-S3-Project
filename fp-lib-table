@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "Espressif")(type "KiCad")(uri "D:/Kicad_Projects/Kicad_libs/kicad-libraries-1.1.0/kicad-libraries-1.1.0/footprints/Espressif.pretty")(options "")(descr ""))
+  (lib (name "Antenna")(type "KiCad")(uri "D:/Git_KiCad/STEAM-Project/MINI_LED_IoT_ESP32/Lib/Antenna.pretty")(options "")(descr ""))
+  (lib (name "MPU-9250")(type "KiCad")(uri "D:/Kicad_Projects/Kicad_libs/MPU-9250")(options "")(descr ""))
+)
