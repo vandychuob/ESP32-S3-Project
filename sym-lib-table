@@ -1,5 +1,0 @@
-(sym_lib_table
-  (lib (name "Espressif")(type "KiCad")(uri "D:/Kicad_Projects/Kicad_libs/kicad-libraries-1.1.0/kicad-libraries-1.1.0/libraries/Espressif.kicad_sym")(options "")(descr ""))
-  (lib (name "Antenna")(type "KiCad")(uri "D:/Git_KiCad/STEAM-Project/MINI_LED_IoT_ESP32/Lib/Antenna.kicad_sym")(options "")(descr ""))
-  (lib (name "MPU-9250")(type "Legacy")(uri "D:/Kicad_Projects/Kicad_libs/MPU-9250/MPU-9250.lib")(options "")(descr ""))
-)
